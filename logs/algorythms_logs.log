@@ -6,3 +6,35 @@
 2026-03-10 22:56:57 - algorythms - DEBUG - Execution sorting-selection_sort took 5.600000804406591e-06s 
 2026-03-10 22:58:47 - algorythms - DEBUG - Execution sorting-insertion_sort took 1.7500000467407517e-05s 
 2026-03-10 22:58:47 - algorythms - DEBUG - Execution sorting-insertion_sort took 3.4000004234258085e-06s 
+2026-03-11 22:19:58 - algorythms - DEBUG - Execution sorting-selection_sort took 2.2800000124334474e-05s
+2026-03-11 22:19:58 - algorythms - DEBUG - Execution sorting-selection_sort took 8.499999921696144e-06s
+2026-03-11 22:20:51 - algorythms - DEBUG - Execution string-substring_in_string-1 took 7.3999999585794285e-06s
+2026-03-11 22:21:16 - algorythms - DEBUG - Execution string-substring_in_string-1 took 8.600000001024455e-06s
+2026-03-11 22:26:50 - algorythms - DEBUG - Execution string-substring_in_string-1 took 7.000000096013537e-06s
+2026-03-11 22:26:50 - algorythms - DEBUG - Execution string-substring_in_string-2 took 3.3999999686784577e-06s
+2026-03-11 22:36:52 - algorythms - DEBUG - Execution string-substring_in_string-1 took 7.60000011723605e-06s
+2026-03-11 22:36:52 - algorythms - DEBUG - Execution string-substring_in_string-2 took 3.3000001167238224e-06s
+2026-03-11 22:39:33 - algorythms - DEBUG - Execution string-substring_in_string-1 took 5.300000339047983e-06s
+2026-03-11 22:39:33 - algorythms - DEBUG - Execution string-substring_in_string-2 took 3.099999958067201e-06s
+2026-03-11 22:39:44 - algorythms - DEBUG - Execution string-substring_in_string-1 took 5.299999884300632e-06s
+2026-03-11 22:39:44 - algorythms - DEBUG - Execution string-substring_in_string-2 took 2.8999997994105797e-06s
+2026-03-11 22:40:30 - algorythms - DEBUG - Execution string-substring_in_string-1 took 1.1500000255182385e-05s
+2026-03-11 22:40:30 - algorythms - DEBUG - Execution string-substring_in_string-2 took 5.300000339047983e-06s
+2026-03-11 22:40:50 - algorythms - DEBUG - Execution string-substring_in_string-1 took 7.899999673099956e-06s
+2026-03-11 22:40:50 - algorythms - DEBUG - Execution string-substring_in_string-2 took 4.300000000512227e-06s
+2026-03-11 22:40:57 - algorythms - DEBUG - Execution string-substring_in_string-1 took 8.800000159681076e-06s
+2026-03-11 22:40:57 - algorythms - DEBUG - Execution string-substring_in_string-2 took 4.4000003072142135e-06s
+2026-03-11 22:41:25 - algorythms - DEBUG - Execution string-substring_in_string-1 took 7.60000011723605e-06s
+2026-03-11 22:41:25 - algorythms - DEBUG - Execution string-substring_in_string-2 took 4.300000000512227e-06s
+2026-03-11 22:43:09 - algorythms - DEBUG - Execution string-substring_in_string-1 with arguments(('asdfgfdsa', 'dsa'), {}) took 7.999999979801942e-06s
+2026-03-11 22:43:09 - algorythms - DEBUG - Execution string-substring_in_string-2 with arguments(('asdfgfdsa', 'dsa'), {}) took 4.600000011123484e-06s
+2026-03-11 22:43:17 - algorythms - DEBUG - Execution sorting-selection_sort with arguments(('selectionsort',), {}) took 1.7999999727180693e-05s
+2026-03-11 22:43:17 - algorythms - DEBUG - Execution sorting-selection_sort with arguments(([1, 2, 3, 5, 14, 78],), {}) took 5.299999884300632e-06s
+2026-03-11 22:43:31 - algorythms - DEBUG - Execution sorting-insertion_sort with arguments(('selectionsort',), {}) took 1.7100000150094274e-05s
+2026-03-11 22:43:31 - algorythms - DEBUG - Execution sorting-insertion_sort with arguments(([1, 2, 3, 5, 14, 78],), {}) took 4.699999863078119e-06s
+2026-03-11 22:43:49 - algorythms - DEBUG - Execution string-substring_in_string-1 with arguments(('asdfgfdsa', 'dsajneenrgreng'), {}) took 4.600000011123484e-06s
+2026-03-11 22:43:49 - algorythms - DEBUG - Execution string-substring_in_string-2 with arguments(('asdfgfdsa', 'dsajneenrgreng'), {}) took 1.5999999050109182e-06s
+2026-03-11 22:44:20 - algorythms - DEBUG - Execution string-substring_in_string-1 with arguments(('asdfgfdsa', 'dsajneenrgreng'), {}) took 3.499999820633093e-06s
+2026-03-11 22:44:20 - algorythms - DEBUG - Execution string-substring_in_string-2 with arguments(('asdfgfdsa', 'dsajneenrgreng'), {}) took 9.59999988481286e-06s
+2026-03-11 22:44:45 - algorythms - DEBUG - Execution string-substring_in_string-1 with arguments(('asdfgfdsa', 'dsajneenrgreng'), {}) took 3.499999820633093e-06s
+2026-03-11 22:44:45 - algorythms - DEBUG - Execution string-substring_in_string-2 with arguments(('asdfgfdsa', 'dsajneenrgreng'), {}) took 1.3600000329461182e-05s
